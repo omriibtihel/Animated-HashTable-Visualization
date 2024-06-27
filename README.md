@@ -3,8 +3,11 @@ This Java project provides a visual representation of a hash table, allowing use
 
 # Features
 Interactive Input: Users can add words via a text field and remove them with a button click.
+
 Smooth Animation: Added words move smoothly from the top of the panel to their respective positions in the hash table.
+
 Visual Feedback: The hash table structure is visually represented with clear cell borders and directional arrows, making it easy to understand the data flow.
+
 Custom Styling: Modern and clean UI design using custom fonts, colors, and rounded buttons for an improved user experience.
 
 # How It Works
