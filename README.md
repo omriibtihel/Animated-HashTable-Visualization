@@ -12,9 +12,12 @@ Custom Styling: Modern and clean UI design using custom fonts, colors, and round
 
 # How It Works
 Adding Words: Enter a word in the text field and click "Add" or press Enter. The word will animate from the top of the panel to its appropriate position in the hash table.
+
 Removing Words: Enter a word in the text field and click "Remove". If the word exists in the hash table, it will be removed.
+
 Visualization: The hash table is drawn dynamically, showing the current state of the hash table and the position of each word.
 
 # Dependencies
 Java Swing: Used for creating the user interface and handling events.
+
 Java AWT: Used for drawing graphics and animations.
